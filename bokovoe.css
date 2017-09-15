@@ -1,0 +1,137 @@
+
+#dop {
+	background-color: #C2D5D6;
+	float: left;
+	margin-left: -265px;
+	margin-top: 15px;
+}	
+#dop ul {
+list-style-type: none; 
+margin-left: 10px; 
+margin-top: 0px;
+padding: 0;
+
+
+}
+
+#dop ul li a{
+	color: #003559; 
+	background: url(images/vert_css_menu_3.png) no-repeat 0 0; 
+	text-decoration: none; 
+	width: 220px;
+	height: 47px;
+	display: block;
+	border: none;
+	
+}
+
+#dop ul li a:hover{
+	background: url(images/vert_css_menu_1.png) no-repeat 0 0;
+	text-decoration: none; 
+	width: 220px;
+	height: 47px;
+	display: block;
+	border: none;
+	color: #E6855F; 
+	-webkit-transition: color 0.4s ease-in-out;
+  -moz-transition: color 0.4s ease-in-out;
+  -o-transition: color 0.4s ease-in-out;
+  transition: color 0.4s ease-in-out;
+}
+
+#dop ul li a span{
+	font-size: 18px; 
+	padding: 10px 0 0 22px;
+	display: block;	
+}
+
+.link1{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  display: block;
+  height: 40px;
+  line-height: 20px;
+  padding: 0 10px;
+  font-weight: bold;
+  color: #003559;
+  
+  -webkit-transition: color 0.4s ease-in-out;
+  -moz-transition: color 0.4s ease-in-out;
+  -o-transition: color 0.4s ease-in-out;
+  transition: color 0.4s ease-in-out;
+  
+}
+.link1:hover {
+  color: #E6855F;
+}
+.link2{
+  font-family: Arial, serif;
+  font-size: 105%;
+  display: block;
+  line-height: 20px;
+  font-weight: bold;
+  color: #003559;
+   -webkit-transition: color 0.4s ease-in-out;
+  -moz-transition: color 0.4s ease-in-out;
+  -o-transition: color 0.4s ease-in-out;
+  transition: color 0.4s ease-in-out;
+  
+}
+.link2:hover {
+  color: #E6855F;
+  
+}
+.dopi {
+	width: 230px;
+	background-color: #819FFF;
+	padding: 5px 5px 5px 5px;
+	-webkit-box-shadow: inset 0 8px 8px -8px #003366;
+    box-shadow: inset 0 8px 8px -8px #003366;
+}
+
+#dp {margin-top: 260px;
+margin-left: -270px;
+	float: left
+;
+}
+
+
+#dp ul {
+list-style-type: none; 
+margin-left: 10px; 
+margin-top: 0px;
+padding: 0;
+
+
+}
+
+#dp ul li a{
+	color: #003559; 
+	background: url(images/vert_css_menu_0.png) no-repeat 0 0; 
+	text-decoration: none; 
+	width: 220px;
+	height: 60px;
+	display: block;
+	border: none;
+	
+}
+
+#dp ul li a:hover{
+	background: url(images/vert_css_menu_2.png) no-repeat 0 0;
+	text-decoration: none; 
+	width: 220px;
+	height: 60px;
+	display: block;
+	border: none;
+	color: #E6855F; 
+	-webkit-transition: color 0.4s ease-in-out;
+  -moz-transition: color 0.4s ease-in-out;
+  -o-transition: color 0.4s ease-in-out;
+  transition: color 0.4s ease-in-out;
+}
+
+#dp ul li a span{
+	font-size: 18px; 
+	padding: 10px 0 0 22px;
+	display: block;	
+}
